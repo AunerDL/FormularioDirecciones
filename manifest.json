@@ -1,0 +1,17 @@
+{
+    "name": "Formulario",
+    "short_name": "Forms",
+    "theme_color": "#160d18",
+    "background_color": "#160d18",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/iconFornite.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}

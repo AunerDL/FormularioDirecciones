@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/car2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+
+.color-text{
+    color: #160d18;
+}
+
+.font-text{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.stylish-container {
+    margin: 100px auto;
+    padding: 50px;
+    background-color: #9d1722; 
+    border-radius: 20px;
+    width: 70vw; 
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s ease-in-out;
+}
+
+.stylish-container:hover {
+    transform: scale(1.05);
+}
+
+.stylish-container p {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
